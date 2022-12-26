@@ -1,0 +1,5 @@
+To run the code, carry out the following steps-
+
+1. create a table in MySQL database, named isaa_users, with the columns: user_id, name, contact, pin, personal_limit.
+
+2. create a directory named Images in the base directory and add images of people with whom you want to test the code.
